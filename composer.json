@@ -1,5 +1,5 @@
 {
-    "name": "jcricaro/laravel-console",
+    "name": "jcricaro/console-laravel",
     "description": "The Command Line Interface for the Lucid Architecture. Original code can be found at lucid-architecture/console-laravel.",
     "keywords": ["laravel", "lucid", "mvc", "ddd", "domains", "architecture"],
     "license": "MIT",
